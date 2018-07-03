@@ -1,7 +1,6 @@
 # scrappingPelis
-Scripts Python para webscrapping.
 
-Módulos de scrapping de la appweb: FilmScrapping
+Módulos de webscrapping Python realizados con BeautifulSoup para la aplicación web **FilmScrapping**.
 
 ## Repositorio Completo
 
